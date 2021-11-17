@@ -12,9 +12,7 @@ Data Science Skill Set
 
 ► DataBase- MySql,PostgreSQL,MongoDB
 
-► Big Data - Hadoop,Map-Reduce,HDFS,Hive,Pig,Spark
-
-► Language/Tools- • Python,SQL • IDE - Pycharm,VS-Code,Jupyter Notebook • Anaconda,Linux OS,Cloudera,RASA
+► Language/Tools- • Python,SQL • IDE - Pycharm,VS-Code,Jupyter Notebook • Anaconda,wondows,Linux OS
 
 How to reach me
 
