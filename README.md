@@ -2,6 +2,7 @@ Hi there 👋
 I'm a Software Develope at winjit technology who loves to uncover the hidden facts and meaningful insights from messy data.I learned to build effective Machine Learning Model, run Data Pipelines, Natural Language Processing, Image Processing, build Recommendation Systems, and deploy solutions to the cloud.
 
 Data Science Skill Set
+
 ► Machine Learning - Exploratory Data Analysis, Feature Engineering, Visualization,Regression,Classification , Natural Language Processing
 
 ► Statistics
